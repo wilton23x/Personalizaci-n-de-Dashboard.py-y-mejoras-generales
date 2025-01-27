@@ -1,4 +1,4 @@
-# Personalizaci-n-de-Dashboard.py-y-mejoras-generales
+# Adaptación de Proyecto de Programación Orientada a Objetos
 # Dashboard.py - Gestión de Proyectos de Programación Orientada a Objetos
 
 ## Descripción del Proyecto
